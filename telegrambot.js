@@ -11,7 +11,7 @@ require('dotenv').config();
 const express = require('express');
 const bodyParser = require('body-parser');
 const TelegramBot = require('node-telegram-bot-api');
-const verifyTelegramWebAppData = require('./verifyTelegramWebAppData.js');
+const verifyTelegramWebAppData = require('./verify/verifyTelegramWebAppData.js');
 
 const TELEGRAM_BOT_TOKEN = process.env.VERIFY_TOKEN;
 const WEBHOOK_URL = process.env.WEBHOOK_URL;

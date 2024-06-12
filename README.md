@@ -1,3 +1,6 @@
+DOWNLOAD: [https://github.com/Lakylife](https://github.com/Lakylife/telegram_mini_app/)
+AUTHOR: LAKYLIFE
+
 # Telegram Bot mini app
 
 ## Description

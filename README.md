@@ -21,6 +21,8 @@ This project contains a basic template for creating a Telegram bot for the Pizza
 1. **Clone this repository:**
 2. **Navigate to the project directory:**
 3. **Install dependencies using NPM or Yarn:**
+4. npm init -y
+5. npm install
 
 ### Configuration
 
@@ -44,6 +46,12 @@ Set `WEBHOOK_URL` to a publicly accessible URL for your server.
 2. **Interact with the bot**
 
 Connect your bot on Telegram using its username or the bot's page link. Start interacting with the bot using various commands, such as `/start` or other custom commands implemented in your code.
+
+## Vite React native
+
+1. npm install vite@latest nameApp
+2. npm install @twa-dev/sdk
+3. **Interact with the bot**
 
 ## License
 

@@ -1,3 +1,12 @@
+/*
+ _    __  _  ___   ___   _ ___ ___  
+| |  /  \| |/ | `v' / | | | __| __| 
+| |_| /\ |   < `. .'| |_| | _|| _|  
+|___|_||_|_|\_\ !_! |___|_|_| |___| 
+              --2024--
+https://github.com/Lakylife
+Project Meme PizzaPenny.com 2024
+*/
 require('dotenv').config();
 const crypto = require('crypto');
 

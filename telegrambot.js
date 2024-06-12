@@ -13,7 +13,7 @@ const bodyParser = require('body-parser');
 const TelegramBot = require('node-telegram-bot-api');
 const verifyTelegramWebAppData = require('./verifyTelegramWebAppData.js');
 
-const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
+const TELEGRAM_BOT_TOKEN = process.env.VERIFY_TOKEN;
 const WEBHOOK_URL = process.env.WEBHOOK_URL;
 
 const bot = new TelegramBot(TELEGRAM_BOT_TOKEN);
